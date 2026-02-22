@@ -1,0 +1,1 @@
+Go library for opening files, folders, and URLs.
